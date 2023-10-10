@@ -1,0 +1,9 @@
+body {
+    background-image: url('./images/wave-haikei.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 65%;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+  
